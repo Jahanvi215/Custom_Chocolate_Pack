@@ -19,6 +19,10 @@ JavaScriptis used to handle user interactions and dynamic updates of selected ch
 Overall, this approach follows best practices for web development by separating structure (HTML), presentation (CSS), and behavior (JavaScript). It also provides room for customization, making it adaptable to different design requirements.
 
 
+**Live Link**
+
+https://jahanvi215.github.io/Custom_Chocolate_Pack/
+
 
 
 
